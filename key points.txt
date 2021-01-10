@@ -1,0 +1,16 @@
+initially react js was written in high level js and vrowser understand low level js thats why webhack and 
+babble tools used to convert high level react js into low level js undrerstood by browser.
+
+in package.json file react-scripts file help to not deal with babble and web-hack
+
+react-script-start start the app and open it on localhost server 3000
+
+in src folder our application lives
+
+in public folder files that convert our react js to old js resides
+
+react-script-build put our src react file into public folder.
+
+
+
+
